@@ -1,0 +1,78 @@
+.h1{
+	border-style:dotted;
+	height:200px;
+	width:300px ;
+}
+.h2{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.h3{
+	border-style: solid;
+	height:200px;
+	width:300px ;
+	border-width:3px;
+}
+.h4{
+	border-style:dashed;
+	height:200px;
+	width:300px ;
+	border-width:3px;
+
+}
+.h5{
+	border-style:groove;
+	height:200px;
+	width:300px ;
+	border-width:3px;
+
+}
+.h6{
+	border-style:none;
+	height:200px;
+	width:300px ;
+	border-width:5px;
+
+}
+.h7{
+	border-style:inset;
+	height:200px;
+	width:300px ;
+	border-width:5px;
+
+}
+.h8{
+	border-style:double;
+	height:200px;
+	width:300px ;
+	border-width:5px;
+
+}
+.h9{
+	border-style:ridge;
+	height:200px;
+	width:300px ;
+	border-width:5px;
+
+}
+.h10{
+	border-style:outset;
+	height:200px;
+	width:300px ;
+	border-width:5px;
+
+}
+.h11{
+	border-style:hidden;
+	height:200px;
+	width:300px ;
+	border-width:5px;
+
+}
+.ola{
+	outline: 15px dashed darkred;
+	box-shadow: 0 0 0 15px skyblue;
+	width:200px;
+	height:300px;
+}

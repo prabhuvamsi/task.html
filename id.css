@@ -1,0 +1,23 @@
+input[type="text"]{
+	color:violet;
+}
+input[type="number"]{
+	color:black;
+}
+input[type="password"]{
+	color:mediumpurple;
+}
+input[type="gmail"]{
+	color:pink;
+}
+a:hover{
+	color:green;
+	background-color:green;
+	height:20px;
+}
+a:active{
+	color:yellow;
+}
+a:visited{
+	
+}
